@@ -27,3 +27,4 @@ cabal.project.local~
 *.scm~
 *.scm#*
 .#*.scm
+*.exec
